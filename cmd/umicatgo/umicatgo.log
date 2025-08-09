@@ -1,0 +1,3 @@
+[2023-10-22 00:02:20][FATAL]: open /etc/umicatgo/umicatgo.conf: no such file or directoryfailed to parse config file: /etc/umicatgo/umicatgo.conf
+h multi-core=true is listening on tcp://:10201
+
